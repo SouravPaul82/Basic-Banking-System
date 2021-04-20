@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+.nav-link{
+	margin-right: 15px;
+	color:#00ffff;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color: #00ffff;
+	letter-spacing: 0.5px;
+}
+h2{
+	color: #00ffff;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
